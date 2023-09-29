@@ -1,0 +1,17 @@
+Règle du jeu :
+
+1 - Deux à quatre joueurs disposent chacun d'un ou plusieurs petits-chevaux, et jouent en lançant un dé à tour de rôle (un 6 obtenu sur le dé permettant de rejouer). Un joueur doit d'abord réaliser un 6 avec le dé pour pouvoir sortir un petit cheval de son écurie. Il doit ensuite lui faire parcourir toutes les cases situées à la périphérie du plateau, en le faisant avancer d'un nombre de cases égal au résultat du dé, avant de remonter une dernière allée propre à chaque couleur. Les pions sont avancés dans le sens des aiguilles d'une montre.
+
+2 - À son tour de jeu, le joueur peut décider de jouer tel ou tel de ses petits chevaux en fonction du résultat du dé. Chaque joueur est libre d’avoir de sortis le nombre de petits chevaux qu'il désire, mais il ne peut en déplacer qu'un seul par tour. Dans les parties où chaque joueur ne joue qu’avec un seul petit cheval, il n’y a donc aucune part de stratégie ou de tactique, tout reposant sur le hasard.
+
+3 -Stratégie : Ainsi vous êtes libre de ne faire sortir qu’un cheval, mais vous ne pouvez en jouer qu’un cheval par tour. Il est parfois intéressant d’en sortir plusieurs pour gêner les adversaires (les chevaux retournent à la case de départ s’il y a collision), avoir des chevaux déjà en piste si un adversaire vous renvoie dans l’écurie ou optimiser vos chances de vous arrêter pile devant l’escalier.
+
+4 - Après que son pion ait fait le tour du plateau, le joueur doit faire le chiffre exact sur le dé de sorte qu'il s'arrête devant son escalier. Par exemple, si le pion est situé à trois cases du bas de l'escalier, le joueur doit obtenir un 3 sur son dé pour emmener son pion en bas de l'escalier. Si le chiffre est trop grand, il avance son pion jusqu’à la case du bas de l'escalier, puis le recule du nombre de cases correspondant à la différence entre le chiffre à faire et le chiffre fait ; en reprenant l'exemple : si le joueur obtient 4 avec le dé, il avancera le pion de trois cases, puis le reculera d'une case.
+
+5 - Monter les marches de l’escalier : Une fois devant l’escalier, le joueur doit respectivement obtenir un, 1, 2, 3, 4, 5, 6 et encore un 6 pour aller au centre.
+Gagner : Le 1er joueur qui place UN cheval au centre du plateau gagne la partie. 
+
+6 - Gagner : Le 1er joueur qui place UN cheval au centre du plateau gagne la partie.
+
+
+
